@@ -1,0 +1,2 @@
+Das SVG Illustrator script gibt auch eine reihe an commands aus. Die machen die SVGs schön. Dazu braucht man Node.js, npm und svgo.
+https://github.com/svg/svgo
